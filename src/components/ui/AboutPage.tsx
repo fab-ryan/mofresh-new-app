@@ -214,7 +214,9 @@ function AboutPage() {
             >
               <h3 className="text-[#D0D34D] font-bold text-xl mb-4">{t('ourHistory')}</h3>
               <p className="text-white/90 leading-relaxed text-lg">
-                {t('historyDescription')}
+                Founded in 2026, DD Harvest is building a data-driven agricultural platform that connects farmers, cold storage providers, and buyers streamlining storage, logistics, and trade. </p>
+              <p className="text-white/90 leading-relaxed text-lg mt-4">
+                Our vision is to become East Africa’s leading integrated agri-logistics and digital marketplace platform seamlessly connecting rural producers, cold storage owners, and urban markets, minimizing post-harvest losses, and unlocking inclusive, data-driven market access at scale.
               </p>
             </motion.div>
           </div>
